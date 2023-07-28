@@ -33,8 +33,11 @@ React based project: WorldWise. You can start a trip, see the price and product,
 
 - React
 - Fake API
+- Redux
+- Router
 
 ## Author
 
 - GitHub - [Nika Merebashvili](https://github.com/nikamerebashvili95)
 - LinkedIn - [Nika Merebashvili](https://www.linkedin.com/in/nikamerebashvili)
+- Portfolio - [Portfolio](https://nikamerebashvili95.github.io/portfolio-website/)
